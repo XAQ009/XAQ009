@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @XAQ009
+- 👋 Hi, I’m @XAQ009 (Z or Zach) 
 - 👀 I’m interested in phone tech and modaern marvels
-- 🌱 I’m currently learning Python, Sales Forces, Github
+- 🌱 I’m currently learning Python, Salesforce, Github
 - 💞️ I’m looking to collaborate on any and all that keeps me learning
 - 📫 How to reach me zackary.lantz@gmail.com
 - 😄 Pronouns: he/him
